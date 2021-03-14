@@ -6,7 +6,6 @@ AGENTS = 50
 DAYS = 250
 INTERACTIONS = 3
 
-
 class World:
     _agents = []
     _days = 0
